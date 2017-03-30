@@ -1,0 +1,39 @@
+*{
+  margin: 0px auto;
+  width:700px;
+}
+h1{
+  text-align:center;
+  margin-bottom:10px;
+}
+button{
+  width:auto;
+  margin-left:10px;
+}
+p{
+  display:inline-block;
+  width:auto;
+}
+.addClass p{
+  margin-left:85px;
+}
+.slidetoggle p{
+  margin-left:80px;
+}
+.slidetoggle img{
+  text-align:center;
+  display:block;
+  width:300px;
+  height:300px;
+}
+.append p{
+  margin-left:100px;
+}
+div{
+  padding-bottom:50px;
+  margin-bottom:10px;
+  border-bottom: 5px solid black;
+}
+.red{
+  color:red;
+}
